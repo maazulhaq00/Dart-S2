@@ -6,9 +6,12 @@ import 'Iterable_sets.dart';
 import 'Iterables_list.dart';
 import 'Loop.dart';
 import 'LoopTable.dart';
+import 'OOP1.dart';
+import 'OOP2.dart';
 import 'Operators.dart';
 import 'TypeCasting.dart';
 import 'Iterables_2dlist.dart';
+import 'function2.dart';
 import 'functions.dart';
 
 void main(){
@@ -23,5 +26,8 @@ void main(){
   // learning2DList();
   // learningSets();
   // learningMap();
-  learningFunctions();
+  // learningFunctions();
+  // learningFunctions2();
+  // learningOOP();
+  learningOOP2();
 }
